@@ -1,0 +1,10 @@
+[package]
+name = "pgrep"
+version = "0.1.0"
+authors = ["matthew"]
+edition = "2018"
+
+[dependencies]
+regex = "1.1.0"
+clap = "2.32.0"
+failure = "0.1.5"

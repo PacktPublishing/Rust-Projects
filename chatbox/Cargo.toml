@@ -1,0 +1,10 @@
+[package]
+name = "chatbox"
+version = "0.1.0"
+authors = ["matthew <matt@storyfeet.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.1.25"
+tokio = "0.1.16"
+tokio-channel = "0.1.0"

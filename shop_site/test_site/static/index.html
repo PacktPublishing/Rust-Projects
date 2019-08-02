@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Welcome to the Shop</h1>
+        <p>I hope you like it here</p>
+        <h2>Get Request</h2>
+        <form action="/db/find_items" method="GET">
+            Term:<input type="text" name="search_term">
+            Limit:<input type="number" name="limit">
+            <input type="submit" value ="Search">
+        </form>
+        <h2>Post Request</h2>
+        <form action="/db/find_items" method="POST">
+            Term:<input type="text" name="search_term">
+            Limit:<input type="number" name="limit">
+            <input type="submit" value ="Search">
+        </form>
+    </body>
+</html>

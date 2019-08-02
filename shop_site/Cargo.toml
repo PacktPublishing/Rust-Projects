@@ -1,0 +1,16 @@
+[package]
+name = "shop_site"
+version = "0.1.0"
+authors = ["matthew <matt@storyfeet.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "0.7.9"
+actix-web = "0.7.19"
+failure = "0.1.5"
+shop_base = {path = "../shop_base"}
+futures = "0.1.26"
+serde = "1.0.90"
+serde_derive = "1.0.90"
+lazy_static = "1.3.0"
+handlebars = "1.1.0"
