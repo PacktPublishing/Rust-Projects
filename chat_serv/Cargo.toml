@@ -1,0 +1,17 @@
+[package]
+name = "chat_serv"
+version = "0.1.0"
+authors = ["matthew <matt@storyfeet.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "0.1.5"
+futures = "0.1.25"
+tokio = "0.1.15"
+tokio-channel = "0.1.0"
+
+serde = "1.0.89"
+serde_json = "1.0.38"
+serde_derive = "1.0.89"
+
+chatbox = {path = "../chatbox/"}
