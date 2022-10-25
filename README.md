@@ -37,3 +37,7 @@ PostgreSQL 9 or 10, downloadable at https://www.postgresql.org/ <br/>
  [Hyperledger for Blockchain Applications [Video]](https://www.packtpub.com/in/application-development/hyperledger-blockchain-applications-video)
 
  [RUST: The Easy Way [Video]](https://www.packtpub.com/in/application-development/rustthe-easy-way-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788628549">https://packt.link/free-ebook/9781788628549 </a> </p>
